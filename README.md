@@ -118,9 +118,3 @@ Runs on: [http://localhost:8501](http://localhost:8501)
 BTech Chemical Engineering, IIT Roorkee
 
 ---
-
-
----
-
-Let me know if you want to include a GIF/preview or auto-deploy badge in this too.
-```
