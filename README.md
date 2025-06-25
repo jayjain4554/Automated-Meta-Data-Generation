@@ -119,11 +119,6 @@ BTech Chemical Engineering, IIT Roorkee
 
 ---
 
-## 📄 License
-
-MIT License – feel free to use and modify for academic or commercial purposes.
-
-```
 
 ---
 
