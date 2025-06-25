@@ -1,0 +1,548 @@
+{
+  "generation_timestamp": "2025-06-25T13:06:23.986473",
+  "system_version": "3.0.0",
+  "advanced_features_enabled": true,
+  "filename": "MARS OPEN PROJECTS 2025.pdf",
+  "file_path": "uploads\\MARS OPEN PROJECTS 2025.pdf",
+  "file_type": ".pdf",
+  "content_hash": "c85afa69ffb9a1fba7369433999d02cb",
+  "processing_time_seconds": 485.073,
+  "file_size": 729700,
+  "file_size_mb": 0.73,
+  "creation_date": "2025-06-25T13:06:23.096727",
+  "modification_date": "2025-06-25T13:06:23.102260",
+  "access_date": "2025-06-25T13:06:23.907500",
+  "page_count": 1,
+  "character_count": 7622,
+  "character_count_no_spaces": 6498,
+  "word_count": 1125,
+  "language": "en",
+  "document_structure": {
+    "line_count": 1,
+    "paragraph_count": 1,
+    "empty_lines": 0,
+    "average_paragraph_length": 1125.0,
+    "sentence_count": 97,
+    "word_count": 1052,
+    "token_count": 1413,
+    "average_words_per_sentence": 10.85,
+    "average_sentences_per_paragraph": 97.0,
+    "lexical_diversity": 0.4221,
+    "potential_headers": [],
+    "has_bullet_points": false,
+    "has_numbered_lists": false
+  },
+  "keywords": {
+    "keybert_keywords": [
+      {
+        "keyword": "emotion classification speech",
+        "score": 0.6586
+      },
+      {
+        "keyword": "audio dataset evaluation",
+        "score": 0.5834
+      },
+      {
+        "keyword": "speech data objective",
+        "score": 0.5747
+      },
+      {
+        "keyword": "end pipeline emotion",
+        "score": 0.4484
+      },
+      {
+        "keyword": "projects 2025 ai",
+        "score": 0.3457
+      },
+      {
+        "keyword": "trained model python",
+        "score": 0.3381
+      },
+      {
+        "keyword": "conveyed speech song",
+        "score": 0.3363
+      },
+      {
+        "keyword": "pipeline accuracy metrics",
+        "score": 0.3064
+      },
+      {
+        "keyword": "accurately identify categorize",
+        "score": 0.2563
+      },
+      {
+        "keyword": "criteria model",
+        "score": 0.2505
+      },
+      {
+        "keyword": "features file",
+        "score": 0.2346
+      },
+      {
+        "keyword": "proper feedback unsupported",
+        "score": 0.2215
+      },
+      {
+        "keyword": "netlify easy",
+        "score": 0.2138
+      },
+      {
+        "keyword": "existing compression libraries",
+        "score": 0.2096
+      },
+      {
+        "keyword": "suggestions frontend",
+        "score": 0.1981
+      },
+      {
+        "keyword": "io database",
+        "score": 0.1968
+      },
+      {
+        "keyword": "apart validation data",
+        "score": 0.1939
+      },
+      {
+        "keyword": "custom test",
+        "score": 0.1907
+      },
+      {
+        "keyword": "automating metadata generation",
+        "score": 0.1874
+      },
+      {
+        "keyword": "readme md project",
+        "score": 0.1832
+      },
+      {
+        "keyword": "ipynb notebook running",
+        "score": 0.1748
+      },
+      {
+        "keyword": "f1 score",
+        "score": 0.1558
+      },
+      {
+        "keyword": "iv deployed demo",
+        "score": 0.1483
+      },
+      {
+        "keyword": "modules webassembly",
+        "score": 0.1348
+      },
+      {
+        "keyword": "private rooms permissions",
+        "score": 0.0321
+      }
+    ],
+    "named_entities": [
+      [
+        "OCR",
+        "ORG"
+      ],
+      [
+        "2025",
+        "DATE"
+      ],
+      [
+        "Render/Heroku",
+        "ORG"
+      ],
+      [
+        "Google Drive",
+        "FAC"
+      ],
+      [
+        "PDF",
+        "ORG"
+      ],
+      [
+        "YouTube",
+        "PRODUCT"
+      ],
+      [
+        "React",
+        "GPE"
+      ],
+      [
+        "FileReader API",
+        "PRODUCT"
+      ],
+      [
+        "WebSocket",
+        "ORG"
+      ],
+      [
+        "Accuracy",
+        "PERSON"
+      ],
+      [
+        "Download",
+        "PERSON"
+      ],
+      [
+        "Readme.md",
+        "ORG"
+      ],
+      [
+        "Chart.js / D3.js",
+        "ORG"
+      ],
+      [
+        "Focus The",
+        "ORG"
+      ],
+      [
+        "Canvas Management: Undo/Redo",
+        "ORG"
+      ],
+      [
+        "Deployed",
+        "PERSON"
+      ],
+      [
+        "HTML5 Canvas",
+        "PERSON"
+      ],
+      [
+        "around 2-minutes",
+        "TIME"
+      ],
+      [
+        "Multi-User Collaboration: Users",
+        "ORG"
+      ],
+      [
+        "Data Compression & Decompression Portal Objective Design",
+        "ORG"
+      ],
+      [
+        "Render / Heroku / Railway",
+        "ORG"
+      ],
+      [
+        "Compression Algorithms",
+        "PERSON"
+      ],
+      [
+        "Automated Meta Data Generation Objective",
+        "ORG"
+      ],
+      [
+        "Key Features \uf0b7 File Upload: Users",
+        "ORG"
+      ],
+      [
+        "Node.js",
+        "CARDINAL"
+      ],
+      [
+        "GitHub",
+        "PRODUCT"
+      ],
+      [
+        "NoSQL",
+        "GPE"
+      ],
+      [
+        "Key Areas",
+        "PERSON"
+      ],
+      [
+        "GitHub",
+        "ORG"
+      ],
+      [
+        "75%",
+        "PERCENT"
+      ],
+      [
+        "Real-Time Sync",
+        "ORG"
+      ],
+      [
+        "e. Demo",
+        "ORG"
+      ],
+      [
+        "AI/ML PROBLEM STATEMENTS 1",
+        "ORG"
+      ],
+      [
+        "Huffman Coding",
+        "PERSON"
+      ],
+      [
+        "a. ipynb",
+        "PERSON"
+      ],
+      [
+        "CSS",
+        "ORG"
+      ],
+      [
+        "80%",
+        "PERCENT"
+      ],
+      [
+        "\uf0b7 Save & Export: Option",
+        "ORG"
+      ],
+      [
+        "Run-Length Encoding",
+        "ORG"
+      ],
+      [
+        "greater than",
+        "PERCENT"
+      ],
+      [
+        "GitHub Repository a. Push",
+        "PRODUCT"
+      ],
+      [
+        "Huffman",
+        "ORG"
+      ],
+      [
+        "third",
+        "ORDINAL"
+      ],
+      [
+        "TXT",
+        "ORG"
+      ],
+      [
+        "JavaScript",
+        "PRODUCT"
+      ],
+      [
+        "Deliverables GitHub",
+        "PERSON"
+      ],
+      [
+        "Tech Stack Suggestions Frontend \uf0b7 Framework: React.js",
+        "ORG"
+      ],
+      [
+        "Express.js",
+        "ORG"
+      ],
+      [
+        "JavaScript",
+        "ORG"
+      ],
+      [
+        "Setup",
+        "ORG"
+      ],
+      [
+        "Optional",
+        "ORG"
+      ],
+      [
+        "RLE",
+        "ORG"
+      ],
+      [
+        "Demo Video a. Upload",
+        "ORG"
+      ],
+      [
+        "Deliverables 1",
+        "PERSON"
+      ],
+      [
+        "c. Python",
+        "PERSON"
+      ],
+      [
+        "WebAssembly",
+        "ORG"
+      ],
+      [
+        "at least two",
+        "CARDINAL"
+      ]
+    ],
+    "combined_keywords": [
+      "2025",
+      "75%",
+      "80%",
+      "AI/ML PROBLEM STATEMENTS 1",
+      "Accuracy",
+      "Automated Meta Data Generation Objective",
+      "CSS",
+      "Canvas Management: Undo/Redo",
+      "Chart.js / D3.js",
+      "Compression Algorithms",
+      "Data Compression & Decompression Portal Objective Design",
+      "Deliverables 1",
+      "Deliverables GitHub",
+      "Demo Video a. Upload",
+      "Deployed",
+      "Download",
+      "Express.js",
+      "FileReader API",
+      "Focus The",
+      "GitHub",
+      "GitHub Repository a. Push",
+      "Google Drive",
+      "HTML5 Canvas",
+      "Huffman",
+      "Huffman Coding",
+      "JavaScript",
+      "Key Areas",
+      "Key Features \uf0b7 File Upload: Users",
+      "Multi-User Collaboration: Users",
+      "NoSQL",
+      "Node.js",
+      "OCR",
+      "Optional",
+      "PDF",
+      "RLE",
+      "React",
+      "Readme.md",
+      "Real-Time Sync",
+      "Render / Heroku / Railway",
+      "Render/Heroku",
+      "Run-Length Encoding",
+      "Setup",
+      "TXT",
+      "Tech Stack Suggestions Frontend \uf0b7 Framework: React.js",
+      "WebAssembly",
+      "WebSocket",
+      "YouTube",
+      "a. ipynb",
+      "accurately identify categorize",
+      "apart validation data",
+      "around 2-minutes",
+      "at least two",
+      "audio dataset evaluation",
+      "automating metadata generation",
+      "c. Python",
+      "conveyed speech song",
+      "criteria model",
+      "custom test",
+      "e. Demo",
+      "emotion classification speech",
+      "end pipeline emotion",
+      "existing compression libraries",
+      "f1 score",
+      "features file",
+      "greater than",
+      "io database",
+      "ipynb notebook running",
+      "iv deployed demo",
+      "modules webassembly",
+      "netlify easy",
+      "pipeline accuracy metrics",
+      "private rooms permissions",
+      "projects 2025 ai",
+      "proper feedback unsupported",
+      "readme md project",
+      "speech data objective",
+      "suggestions frontend",
+      "third",
+      "trained model python",
+      "\uf0b7 Save & Export: Option"
+    ]
+  },
+  "entities": {
+    "person": [
+      "Huffman"
+    ],
+    "organization": [
+      "OCR",
+      "Setup"
+    ],
+    "technology": [
+      "Render/Heroku",
+      "Google Drive",
+      "YouTube",
+      "React",
+      "FileReader API",
+      "WebSocket",
+      "Chart.js / D3.js",
+      "HTML5 Canvas",
+      "Data Compression & Decompression Portal Objective Design",
+      "Render / Heroku / Railway",
+      "Compression Algorithms",
+      "Automated Meta Data Generation Objective",
+      "Key Features \uf0b7 File Upload: Users",
+      "Node.js",
+      "GitHub",
+      "NoSQL",
+      "Real-Time Sync",
+      "AI/ML PROBLEM STATEMENTS 1",
+      "Huffman Coding",
+      "CSS",
+      "Run-Length Encoding",
+      "GitHub Repository a. Push",
+      "TXT",
+      "JavaScript",
+      "Tech Stack Suggestions Frontend \uf0b7 Framework: React.js",
+      "c. Python",
+      "WebAssembly"
+    ],
+    "project": [
+      "Deliverables GitHub"
+    ],
+    "location": [
+      "Key Areas"
+    ],
+    "document": [
+      "PDF",
+      "Accuracy",
+      "Download",
+      "Readme.md",
+      "Focus The",
+      "\uf0b7 Save & Export: Option",
+      "greater than",
+      "RLE",
+      "Deliverables 1"
+    ],
+    "educational": [
+      "e. Demo",
+      "Demo Video a. Upload"
+    ],
+    "service": [
+      "Deployed",
+      "Express.js"
+    ],
+    "misc": [
+      "Canvas Management: Undo/Redo",
+      "around 2-minutes",
+      "Multi-User Collaboration: Users",
+      "75%",
+      "a. ipynb",
+      "80%",
+      "third",
+      "Optional",
+      "at least two"
+    ]
+  },
+  "sentiment": {
+    "label": "positive",
+    "confidence": 0.642,
+    "scores": {
+      "negative": 0.358,
+      "positive": 0.642
+    }
+  },
+  "summary": {
+    "detailed_summary": "The objective of this project is to design and implement an end-to-end pipeline for emotion classification using speech data. System will leverage audio processing techniques and machine learning/deep learning models. This project aims to develop an automated metadata generation system. The system will enhance document discoverability, classification, and subsequent analysis. The system must automatically generate metadata for various unstructured document types. Capabilities for extracting text content from diverse formats like PDF, DOCX, and TXT, incorporating optical character recognition (OCR) where necessary, Develop a real-time collaborative whiteboard application that allows multiple users to draw, write, and interact simultaneously. Real-time updates using WebSocket so all users see changes instantly. Develop a web application that allows users to upload files and apply various data compression algorithms to reduce file size. Data compression algorithms include Huffman coding, Run-Length Encoding, LZ77. Users can upload any file (text, image, binary) Multiple Compression Algorithms: Support for popular algorithms like Huffman Coding, Run-Length Encoding (RLE), LZ77 Frontend: React.js (for a responsive and dynamic UI) Styling: Tailwind CSS / Material-UI / Bootstrap (for responsive design and UI components) File Handling: JavaScript FileReader API Frontend: Vercel / Netlify (easy integration with React apps) Backend: Render / Heroku / Railway (for deploying Node.js or Python backend)",
+    "brief_summary": "This project aims to develop an automated metadata generation system. The system must automatically generate metadata for various unstructured document types. The objective of this project is to design and implement an end-to-end pipeline for emotion classification using speech data.",
+    "chunk_count": 8,
+    "summary_statistics": {
+      "detailed_word_count": 205,
+      "brief_word_count": 40,
+      "compression_ratio_detailed": 5.49,
+      "compression_ratio_brief": 28.12
+    }
+  },
+  "topics": {
+    "error": "Transform unavailable when model was fit with only a single data sample."
+  },
+  "completion_timestamp": "2025-06-25T13:14:29.059941"
+}
