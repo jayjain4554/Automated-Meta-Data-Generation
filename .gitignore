@@ -1,0 +1,24 @@
+# Ignore Python env and cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore models/cache if any
+*.pt
+*.pkl
+*.h5
+
+# Ignore Jupyter
+.ipynb_checkpoints/
+
+# Ignore Streamlit logs
+.streamlit/

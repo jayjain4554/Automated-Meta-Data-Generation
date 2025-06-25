@@ -1,0 +1,14 @@
+streamlit
+transformers
+torch
+keybert
+bertopic
+sentence-transformers
+scikit-learn
+umap-learn
+hdbscan
+numpy
+spacy
+pdfplumber
+python-docx
+langdetect
